@@ -66,6 +66,4 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/crysnanth/crysnanth/snake-output/snake.svg" alt="Snake animation" />
-
 ###
